@@ -1,7 +1,7 @@
 # ng-book 2: Simple Reddit-like App
 
-**Note:** The example app from [ng-book 2][] has been refactored into
-multiple files.
+Che
+<a href="">[ng-book 2]</a>
 
 > A simple voting app that resembles a minimal-reddit link voting app in
 > Angular 2.

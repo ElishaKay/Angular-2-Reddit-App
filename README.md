@@ -1,8 +1,5 @@
 # ng-book 2: Simple Reddit-like App
 
-Che
-<a href="">[ng-book 2]</a>
-
 > A simple voting app that resembles a minimal-reddit link voting app in
 > Angular 2.
 
@@ -29,7 +26,7 @@ Then we will
 by running the command:
 
 ```
-npm run go
+npm start
 ```
 
 Then visit [http://localhost:8080](http://localhost:8080) in your
@@ -40,9 +37,6 @@ Reddit`.
 
 In the case where it doesn't work, the first thing to try is looking at
 the developer console in your browser.
-
-If that doesn't work, [come chat with
-us](https://gitter.im/ng-book/ng-book)!
 
 ## Other Files (advanced)
 
@@ -56,9 +50,6 @@ us](https://gitter.im/ng-book/ng-book)!
   [Semantic-UI](http://semantic-ui.com/) for the CSS. We've included the
   CSS files from Semantic here.
 - `resources` - this is where we store a few images
-
-
-
 
 # ng-book 2
 
